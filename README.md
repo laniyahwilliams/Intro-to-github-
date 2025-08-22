@@ -6,5 +6,5 @@ My first github repository
 ## Project Description: This respitory demonstrates my understanding of Github basics.
 ## What I learned 
 - How to create Github accounts
-- -READme.md formatting
+- READme.md formatting
 - VSCode intergration
